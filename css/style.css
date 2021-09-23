@@ -1,0 +1,48 @@
+*{
+    font-family: cursive;
+}
+
+body{
+    /*background: brown;*/
+    background-image: url(https://as01.epimg.net/argentina/imagenes/2021/09/21/futbol/1632212956_647319_1632218125_noticia_normal_recorte1.jpg);
+}
+.cursiva{
+    font-style: italica;
+}
+#contenedor{
+    background-color: cornsilk;
+    width: 1200px;
+    margin-left:  auto;
+    margin-right: auto;
+    padding-top: 5%;
+    padding-left: 5%;
+    padding-right: 78px;
+    padding-bottom: 30px;
+}
+
+.cabecera{
+    border: dashed 10px steelblue;
+}
+
+.titulo{
+
+    text-align: center;
+    color: rgb(15, 182, 57);
+}
+
+.contenido{
+    text-align: justify;
+
+}
+
+.destacado{
+    color: teal;
+    font-size: 1.5em;
+}
+.tercerparrafo{
+    background-color: rgb(78, 50, 205);
+}
+
+.pie{
+    border-top: 2px solid;
+}
